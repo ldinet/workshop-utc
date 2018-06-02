@@ -8,3 +8,7 @@ function test(){
 function second(){
 	// je ne sers a rien
 }
+
+function second3(){
+	// je ne sers a rien
+}
